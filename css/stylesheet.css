@@ -5,7 +5,7 @@ body {
   line-height: 1.5;
   padding: 4em 1em;
   color: #555;
-  background-color: #f2f2f2;
+  background-color: #F0E68C;
 }
 
 h2 {
@@ -13,6 +13,9 @@ h2 {
   padding-top: 1em;
 }
 
-h1, h2, strong {
+h1, h2 {
   color: #333;
 }
+ strong{
+ color: #333
+ }
